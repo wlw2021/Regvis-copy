@@ -50,16 +50,15 @@ body {
     height: 100%;
 }
 #about{
-    display: inline-block;
-    margin: 10px 10px;
-    width: 45%;
-    height: 100%;
+    /* display: inline-block; */
+    margin: 3% 7% 0 7%;
     /* height: 300px; */
-    padding: 20px 20px;
+    padding: 2% 7% 3% 7%;
+    text-align: center;
     
     position: relative;
     background: #F5F3EF;
-    border-radius: 12px;
+    border-radius: 15px;
 
     cursor: pointer;
     box-shadow: 3px 3px 8px 1px #e8e8e8;
@@ -67,13 +66,14 @@ body {
 
 #row2{
     display: inline-block;
-    margin: 10px 10px;
-    padding: 20px 25px;
+    margin: 3% 7% 3% 7%;
+    padding: 2% 7% 3% 7%;
     position: relative; 
     background: #F5F3EF;
     border-radius: 12px;
     cursor: pointer;
     box-shadow: 3px 3px 8px 1px #e8e8e8;
+    text-align: center;
 }
 #spanr{
     background-color: #B78C5E;
