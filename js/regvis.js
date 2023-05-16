@@ -69,7 +69,6 @@ const taxonomy = {
 	"Modeling 2.5D plants from ink paintings",
 	"A simple method for classification of traditional Chinese Painting and Calligraphy images",
 	"Chinese hairy brush: A physically-based model for calligraphy",
-	"FluidPaint: an Interactive Digital Painting System using Real Wet Brushes",
 	"Video-based running water animation in chinese painting style",
 	"An effective method to detect seal images from traditional Chinese paintings",
 	"Content-based identifying and classifying traditional chinese painting images",
@@ -79,7 +78,6 @@ const taxonomy = {
 	"An effective method to detect and categorize digitized traditional Chinese paintings",
 	"Animating chinese paintings through stroke-based decomposition",
 	"Background Adjustment and Saturation Enhancement in Ancient Chinese Paintings",
-	"Computer‐generated Chinese color ink paintings",
 	"Automatic categorization of traditional Chinese painting images with statistical Gabor feature and color feature",
 	"MoXi: Real-time ink dispersion in absorbent paper",
 	"Painting brush control techniques in chinese painting robot",
@@ -104,6 +102,8 @@ const taxonomy = {
 	"Computer-generated watercolor",
 	"A Diffusion Model for Computer Animation of Diffuse Ink Painting",
 	"Hairy brushes",
+	"Research on computer color recovery system for traditional Chinese painting",
+	"Modelling traditional Chinese paintings for content-based image classification and retrieval",
     ]
 };
 const taxkeys = Object.keys(taxonomy);
