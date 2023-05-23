@@ -3,7 +3,7 @@ const taxonomy = {
     The_Six_Canons:["Spirit Resonance", "Bone Method", "Correspondence to the Object","Suitability to Type", "Division and Planning", "Transmission by Copying", "None"],
     Task: ["Image Classification", "Image Segmentation", "Object Detection", "Image Generation", "Video Generation", "Virtual Reality", "Others", "None"], 
     Feature_Extraction: ["Handcrafted Features", "Learned Features", "None"],
-    Rendering: ["Morphology/Graphical Methods", "Diffusion Model", "Reinforcement Learning", "Image-Based", "Geometric-Based", "None"],
+    Rendering: ["Stroke-Based", "Image-Based", "Geometric-Based", "None"],
     Digitalization: ["Retrieval", "Restoration", "None"],
     Interpretation: ["Feature Extraction", "Classification", "None"],
     Creation: ["Image Generation", "Video Generation", "Model", "None"],
